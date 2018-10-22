@@ -1,8 +1,8 @@
 # Lit-Spot 
 ### A mobile app that detects early wildfires and reduces loss
 <img src="https://images-2018.spaceappschallenge.org/team-photos/o8w6ZAk1ZH95SnxIJaQ_T44a-vg=/10830/width-800/">
-#### Background:
- 
+
+#### Background: 
 Over past years, humanity witnessed record-breaking wildfires across the world. Some of these fires lasted for weeks and caused billions of dollars in damage as well as loss of life that no amount of money can replace!
 #### Resources:
 We built a mobile app solution using React Native, Flask, Firebase and Postgresql. The front end is built on React Native so its compatible with both iOS and Android devices. We pulled live satellite data from NASA Earth database from which we were able to extract potential wildfire locations with abnormal heat emissions.
